@@ -1,1 +1,1 @@
-远程仓库与本地仓库的同步
+remote repository and local repository 
